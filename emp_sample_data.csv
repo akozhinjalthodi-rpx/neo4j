@@ -1,8 +1,8 @@
 name,email,mobile_number,location,designation,company_name,skill,degree,college_name,university,discipline_major
-David Flivin,davidpramati123@gmail.com,9176272387,Hyderabad,"",TCS,User,B.E / B.Tech,NIT,Deemed University,BE/B.Tech in Chemical Engineering
-Elango Sellapan,elango.sellappan@imaginea.com,9087896541,Chennai,"",Infosys,Java8,B.E / B.Tech,Test,Anna University,BE/B.Tech in Mechanical Engineering
-Harish Kumar,harish@gmail.com,(+91) 9876543210,Chennai,Dev,Tcs,Java,,,,
-Meghna Singh,meghna@gmail.com,(+91) 9876543210,Chennai,Dev,Alpha,JavaScript,B.E / B.Tech,Alpha,Anna university,BE/B.Tech in Computer Science Engineering
-Thamilazhagan Seran,thamilazhagan.seran@imaginea.com,(+91) 9876543210,Chennai,Dev,Infosys,JavaScript,B.E / B.Tech,Test,Test,BE/B.Tech in Computer Science Engineering
-Thamilazhagan Sheran,thamilazhagan1995@gmail.com,9003241111,Chennai,"",Pramati,JavaScript,,,,
-Vignesh Vikki,vignesh@gmail.com,(+91) 9876543210,Chennai,Dev,Infosys,Java,B.E / B.Tech,Test,Test,BE/B.Tech in Information Technology
+David Flivin,davidpramati123@gmail.com,9176272387,Hyderabad,Assosiate Software Engineer,TCS,Java,B.E / B.Tech,Government Engineering College Sreekrishnapuram,Calicut University,BE/B.Tech in Information Technology
+Elango Sellapan,elango.sellappan@imaginea.com,9087896541,Chennai,Software Engineer,Infosys,Python,B.E / B.Tech,Coimbatore Institute of Technology,Anna University,BE/B.Tech in Mechanical Engineering
+Harish Kumar,harish@gmail.com,(+91) 9876543210,Chennai,System Engineer,TCS,PostgreSQL,B.E / B.Tech,Government Engineering College Sreekrishnapuram,Calicut University,BE/B.Tech in Computer Science Engineering
+Meghna Singh,meghna@gmail.com,(+91) 9876543210,Chennai,Development Engineer,Alpha,Python,B.E / B.Tech,PSG College of Technology,Anna university,BE/B.Tech in Computer Science Engineering
+Thamilazhagan Seran,thamilazhagan.seran@imaginea.com,(+91) 9876543210,Chennai,Software Engineer,Infosys,JavaScript,B.E / B.Tech,Government Engineering College Kottayam,CUSAT,BE/B.Tech in Computer Science Engineering
+Thamilazhagan Sheran,thamilazhagan1995@gmail.com,9003241111,Chennai,Intern,Pramati,JavaScript,B.E / B.Tech,PSG College of Technology,Anna university,BE/B.Tech in Information Technology
+Vignesh Vikki,vignesh@gmail.com,(+91) 9876543210,Chennai,Software Engineer,Oracle,Ruby,B.E / B.Tech,Government Engineering College Kottayam,CUSAT,BE/B.Tech in Information Technology
